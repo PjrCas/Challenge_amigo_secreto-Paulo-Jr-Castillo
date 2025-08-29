@@ -10,6 +10,8 @@ El objetivo principal de este desafío es desarrollar habilidades en lógica de 
 
 
 Como jugar?
+
+
 Juego Amigo Secreto Un juego simple y divertido donde puedes ingresar los nombres de tus amigos (mínimo 2) y realizar un sorteo para descubrir quién será el amigo secreto. Solo se aceptan nombres con un formato válido.
 
 🚀 Tecnologías utilizadas HTML – Estructura del juego CSS – Estilos y diseño visual JavaScript – Lógica y funcionalidad del sorteo 📋 Características ✅ Ingreso de nombres con validación de formato ✅ Mínimo de 2 participantes para iniciar el sorteo ✅ Selección aleatoria y justa del amigo secreto ✅ Interfaz sencilla y amigable
