@@ -1,4 +1,7 @@
 Juego Amigo secreto
+
+
+
 <img width="290" height="192" alt="Captura de pantalla 2025-08-28 231922" src="https://github.com/user-attachments/assets/3de45f68-0be8-4e66-b2e8-fb7d2e0b697f" />
 
 Foco
